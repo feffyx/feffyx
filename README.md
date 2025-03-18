@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi! I'm Federica.<br><br>🍎 Student @ Apple Developer Academy in Napoli.<br>⭐️ UI/UX Designer | Front-end Developer | Videogame designer.<br>💻 Currently working on developing a videogame.
+## Hi! I'm Federica.<br><br>🍎 Student @ Apple Developer Academy in Napoli.<br>⭐️ UI/UX Designer | Front-end Developer | Videogame designer | iOS Dev.<br>💻 Currently working on developing a videogame.
 
 
 ## 🌐 Socials:
