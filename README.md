@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 ⭐️ UI/UX Designer | Front-end Developer | Videogame designer | Spatial Designer <br>🪐 ARTE Student @ Apple Developer Academy<br>
+👩🏻‍💻 UI/UX Designer | Front-end Developer | Videogame designer | Spatial Designer <br>🪐 ARTE Student @ Apple Developer Academy<br>
 
 
 ## 🌐 Socials:
